@@ -1,0 +1,61 @@
+
+
+
+.airdrop-farming-container{
+    
+    color: antiquewhite;
+    text-align: start;
+}
+
+.farmi{
+    font-size: 30px;
+}
+.datdess{
+    text-align: start;
+    color: rgb(150, 143, 139);
+}
+.GuideIMGINN{
+    width: 100%;
+    border-radius: 20px;
+}
+
+ .wp-block-list{
+    text-align: start;
+ }
+ .wp-block-quote{
+    border-left: 2PX solid aqua;
+    border-width: 3px;
+    
+ }
+ /* .wp-block-list li{
+    color: aqua;
+ } */
+ 
+ .Follow{
+    margin-left: 20px;
+ }
+ .Follow a{
+    color: aqua;
+ }
+ .wp-block-list a{
+    color: aqua;
+ }
+ol{
+    line-height: 1.8em;
+    list-style-type: decimal-leading-zero !important;
+    padding-left: 20px !important;
+}
+.Gaming a{
+    color: aqua;
+}
+.Start a{
+    color: aqua;
+}
+.nav-next{
+    margin-left: 340px;
+}
+.nmore{
+    color:wheat;
+    margin-top: 50px;
+}
+ 
